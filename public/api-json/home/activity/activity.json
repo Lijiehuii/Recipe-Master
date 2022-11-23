@@ -1,0 +1,483 @@
+{
+    "status": "OK",
+    "data": {
+        "ongoing": {
+            "events": [
+                {
+                    "id": "3594",
+                    "name": "有奖征集｜美味妙趣 来天猫美味妙妙屋 赢厨电大奖",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年10月15日至2022年11月16日",
+                    "end_date": "2022-11-16 00:00:00",
+                    "image": "https://i1.douguo.com//upload/banner/b/b/e/bbe84e81b64cd87522e9af5c4e55a3de.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3591?isapp=1&open=0&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-10-15 00:00:00",
+                    "checked": 0,
+                    "time_text": null
+                },
+                {
+                    "id": "3598",
+                    "name": "有奖征集|发现美食新“煮”意",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年10月18日至2022年10月31日",
+                    "end_date": "2022-10-31 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/7/2/9/7262a9a30f3f7ce4687f28d653b0fef9.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3597?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-10-18 00:00:00",
+                    "checked": 0,
+                    "time_text": null
+                },
+                {
+                    "id": "3595",
+                    "name": "有奖征集｜爱乐甜送你零卡糖的限定快乐",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年10月17日至2022年11月08日",
+                    "end_date": "2022-11-08 00:00:00",
+                    "image": "https://i1.douguo.com//upload/banner/9/9/6/9961a7be506e128b15327c3be23bbe96.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3593?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-10-17 00:00:00",
+                    "checked": 0,
+                    "time_text": null
+                },
+                {
+                    "id": "3590",
+                    "name": "安佳真芝味，真芝真有料",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年10月13日至2022年11月12日",
+                    "end_date": "2022-11-12 00:00:00",
+                    "image": "https://i1.douguo.com//upload/note/b/e/c/be2c1661ed12677d92c891c05067ec0c.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3587?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-10-13 15:43:24",
+                    "checked": 0,
+                    "time_text": null
+                },
+                {
+                    "id": "3592",
+                    "name": "有奖征集|摩其林美味CP创造营",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年10月13日至2022年11月02日",
+                    "end_date": "2022-11-02 23:59:59",
+                    "image": "https://i1.douguo.com//upload/banner/c/0/1/c061f18a062256d4d76a37dffd61ee51.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3582?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-10-13 18:30:00",
+                    "checked": 0,
+                    "time_text": null
+                },
+                {
+                    "id": "3577",
+                    "name": "有奖征集+试用尝鲜~ 挪威三文鱼 纯净海域 臻鲜品质",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年10月01日至2022年10月31日",
+                    "end_date": "2022-10-31 23:59:59",
+                    "image": "https://i1.douguo.com//upload/banner/3/8/0/38f599a9097a22b4187f976ed0dbd710.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3574?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-10-01 00:00:00",
+                    "checked": 0,
+                    "time_text": null
+                }
+            ],
+            "title": "进行中"
+        },
+        "ended": {
+            "events": [
+                {
+                    "id": "3573",
+                    "name": "菜谱有奖征集|时令蔬菜最养人",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年09月22日至2022年09月30日",
+                    "starttime": 1663776000,
+                    "end_date": "2022-09-30 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/0/e/1/0e9e7f808ef2070f233921a9db2ee8d1.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3572?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-09-22 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3570",
+                    "name": "第七届中国家庭烘焙料理大赛决赛开启",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年09月16日至2022年09月21日",
+                    "starttime": 1663322400,
+                    "end_date": "2022-09-21 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/7/d/c/7d377f0836ea527d5cda600419bd315c.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3569?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-09-16 18:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3568",
+                    "name": "有奖征集 | 宝贝的小“鲜”机  助力满分烹饪作业",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年09月08日至2022年10月09日",
+                    "starttime": 1662566400,
+                    "end_date": "2022-10-09 00:00:00",
+                    "image": "https://i1.douguo.com//upload/note/3/d/6/3d1ee9fde782786102bc7f08ac1809b6.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3565?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-09-08 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3563",
+                    "name": "汁味中秋共团圆 | 味达美圆味月菜馆 为团圆添美味",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年08月31日至2022年09月30日",
+                    "starttime": 1661875200,
+                    "end_date": "2022-09-30 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/2/7/f/27b57655e5c47deb919ca2f2b67730bf.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3558?isapp=1&open=0&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-08-31 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3559",
+                    "name": "2022第七届中国家庭烘焙料理大赛复赛进行中！",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年08月29日至2022年09月15日",
+                    "starttime": 1661702400,
+                    "end_date": "2022-09-15 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/9/e/a/9e47cf992a851aabbce36bf329d3271a.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3553?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-08-29 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3552",
+                    "name": "菜谱有奖征集|米饭最强CP",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年08月19日至2022年09月01日",
+                    "starttime": 1660838400,
+                    "end_date": "2022-09-01 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/f/1/8/f12131176dcb2bb33430bda49ae40908.png",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3551?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-08-19 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3550",
+                    "name": "大喜大·欢喜烧烤店 沉浸式烧烤邀您体验 惊喜大奖等您来赢",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年08月15日至2022年09月04日",
+                    "starttime": 1660492800,
+                    "end_date": "2022-09-04 00:00:00",
+                    "image": "https://i1.douguo.com//upload/note/e/e/1/eed88fb156b259bf39c5ebfa7a22e321.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3549?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-08-15 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3545",
+                    "name": "金龙鱼橄榄调和油 橄想橄做，就是中国味",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年08月05日至2022年09月01日",
+                    "starttime": 1659700800,
+                    "end_date": "2022-09-01 00:00:00",
+                    "image": "https://i1.douguo.com//upload/banner/a/0/a/a0d91655480562a343b9af9790ecc91a.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3541?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-08-05 20:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3540",
+                    "name": "海选开启|2022年中国家庭烘焙料理大赛火热进行中！",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年08月01日至2022年08月25日",
+                    "starttime": 1659283200,
+                    "end_date": "2022-08-25 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/2/0/f/208b84791e0201c9c3eafc9f40a9141f.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3534?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-08-01 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3532",
+                    "name": "玩转美味|2022年中国家庭烘焙料理大赛报名开始！",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月25日至2022年07月31日",
+                    "starttime": 1658678400,
+                    "end_date": "2022-07-31 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/2/d/2/2dff056c46622e0aba617c1181701962.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3531?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-25 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3530",
+                    "name": "上传健康吃蛋日记 赢圣迪乐丰厚大奖",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月24日至2022年08月26日",
+                    "starttime": 1658676600,
+                    "end_date": "2022-08-26 00:00:00",
+                    "image": "https://i1.douguo.com//upload/banner/3/f/5/3ff968b7302bc5235fb81856627eb635.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3528?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-24 23:30:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3525",
+                    "name": "味达美｜名厨汁味正当夏 一招解锁好食光",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月20日至2022年08月23日",
+                    "starttime": 1658246400,
+                    "end_date": "2022-08-23 00:00:00",
+                    "image": "https://i1.douguo.com//upload/note/0/6/2/06ae12463749fc8c402d236c48ac7f72.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3515?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-20 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3527",
+                    "name": "有奖征集|我的夏日续命秘籍",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月20日至2022年08月02日",
+                    "starttime": 1658246400,
+                    "end_date": "2022-08-02 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/4/2/b/42d72b49a476b7476cab23a0de4ebc9b.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3526?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-20 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3524",
+                    "name": "有奖征集&免费申领|多力压榨玉米油 营养美味新鲜登场",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月19日至2022年08月20日",
+                    "starttime": 1658235600,
+                    "end_date": "2022-08-20 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/4/9/7/49bd26dd94ccf94a9544c7614b293987.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3522?isapp=1&open=0&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-19 21:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3523",
+                    "name": "解锁好吃好玩的酷炫暑期 就来丘比小能手料理课堂",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月15日至2022年08月28日",
+                    "starttime": 1657872000,
+                    "end_date": "2022-08-28 00:00:00",
+                    "image": "https://i1.douguo.com//upload/note/8/6/9/86724fba04231f86abcc39937f829fc9.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3519?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-15 16:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3518",
+                    "name": "菜谱有奖征集|刘畊宏女孩的一日三餐",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月13日至2022年08月09日",
+                    "starttime": 1657641600,
+                    "end_date": "2022-08-09 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/7/5/e/75cfb6bfe7b33f8c9f02365cde89b94e.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3517?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-13 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3512",
+                    "name": "小暑限定菜谱征集|解腻开胃就吃它",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年07月06日至2022年07月21日",
+                    "starttime": 1657036800,
+                    "end_date": "2022-07-21 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/0/1/4/01621c2cc6016c3ecff60aee5347bc44.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3511?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-07-06 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3510",
+                    "name": "有奖征集|忽而至夏，从这碗面开始",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年06月19日至2022年06月30日",
+                    "starttime": 1655568000,
+                    "end_date": "2022-06-30 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/c/3/2/c3e329543bd0f0e24d852566f7774dd2.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3509?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-06-19 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3506",
+                    "name": "笔记有奖征集|14天营养餐桌计划",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年06月16日至2022年06月29日",
+                    "starttime": 1655308800,
+                    "end_date": "2022-06-29 23:59:59",
+                    "image": "https://i1.douguo.com//upload/note/b/9/1/b9c75fc505cf67c5bada6e0985012f61.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3503?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-06-16 00:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                },
+                {
+                    "id": "3490",
+                    "name": "家乐“我家饭店”夏季上新｜饭店味道，说做就做",
+                    "des": "",
+                    "type_id": "0",
+                    "type": "默认活动",
+                    "duration": "2022年05月17日至2022年06月11日",
+                    "starttime": 1652760000,
+                    "end_date": "2022-06-11 23:59:59",
+                    "image": "https://i1.douguo.com//upload/banner/c/8/2/c89d0a8e7398227f94df7b3f6f6107f2.jpg",
+                    "url": "https://m.douguo.com/activity/ncpzj/detail/3478?isapp=1&open=0&_vs=1000300&&dg_refreshkey=publishnote&open=0",
+                    "date": "2022-05-17 12:00:00",
+                    "checked": 0,
+                    "time_text": ""
+                }
+            ],
+            "title": "已结束"
+        },
+        "banner": [
+            {
+                "nickname": "如果_smile",
+                "name": "有奖征集｜美味妙趣 来天猫美味妙妙屋 赢厨电大奖"
+            },
+            {
+                "nickname": "如果_smile",
+                "name": "有奖征集|发现美食新“煮”意"
+            },
+            {
+                "nickname": "石榴树2008",
+                "name": "有奖征集+试用尝鲜~ 挪威三文鱼 纯净海域 臻鲜品质"
+            },
+            {
+                "nickname": "LuanneBoa",
+                "name": "有奖征集|摩其林美味CP创造营"
+            },
+            {
+                "nickname": "怪味熙",
+                "name": "有奖征集|发现美食新“煮”意"
+            },
+            {
+                "nickname": "四四来袭",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "怪味熙",
+                "name": "有奖征集|发现美食新“煮”意"
+            },
+            {
+                "nickname": "随心4589",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "随心4589",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "随心4589",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "随心4589",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "随心4589",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "随心4589",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "涓涓小溪长流水",
+                "name": "有奖征集｜爱乐甜送你零卡糖的限定快乐"
+            },
+            {
+                "nickname": "涓涓小溪长流水",
+                "name": "有奖征集｜爱乐甜送你零卡糖的限定快乐"
+            },
+            {
+                "nickname": "如果_smile",
+                "name": "有奖征集|摩其林美味CP创造营"
+            },
+            {
+                "nickname": "小馋食光",
+                "name": "有奖征集|发现美食新“煮”意"
+            },
+            {
+                "nickname": "小馋食光",
+                "name": "有奖征集|发现美食新“煮”意"
+            },
+            {
+                "nickname": "你、猜吥透",
+                "name": "秀晚餐"
+            },
+            {
+                "nickname": "小馋食光",
+                "name": "有奖征集|发现美食新“煮”意"
+            }
+        ],
+        "laid": "3598",
+        "urc": 6
+    }
+}

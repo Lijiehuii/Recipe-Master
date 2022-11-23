@@ -1,0 +1,2158 @@
+{
+    "result": {
+        "anchoring_keyword": "", 
+        "brand_day_dsp": [ ], 
+        "empty_text": "", 
+        "end": 0, 
+        "end_text": "", 
+        "hidden_sorting_tags": 0, 
+        "list": [
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 25689495, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "美的生活家", 
+                        "p": "http://tx1.douguo.net/upload/photo/4/8/2/70_u9442892336862112759.jpg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 2, 
+                        "verified_image": ""
+                    }, 
+                    "an": "美的生活家", 
+                    "au": "recipes://www.douguo.com/details?id=3016910", 
+                    "cook_difficulty": "", 
+                    "cook_time": "10-30分钟", 
+                    "cookstory": "这款微波煮速冻水饺方便快捷，无论是早餐还是宵夜，都能快速填饱你的肚子哟，快来试试吧。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 3016910, 
+                    "img": "https://cp1.douguo.com/upload/caiku/5/0/a/600_506cff89f5378690e919a4c3e8a85b2a.jpg", 
+                    "major": [
+                        {
+                            "note": "400克", 
+                            "title": "冷冻水饺"
+                        }, 
+                        {
+                            "note": "600克", 
+                            "title": "热开水"
+                        }
+                    ], 
+                    "n": "煮速冻水饺", 
+                    "p": "https://cp1.douguo.com/upload/caiku/5/0/a/600_506cff89f5378690e919a4c3e8a85b2a.jpg", 
+                    "rate": 0, 
+                    "recipe_list_tags": [ ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "25.0万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "3-4年级学做饭"
+                        }
+                    ], 
+                    "tips": "1、烹饪过程请使用微波适用容器，不可食用金属器皿。
+2、避免烹饪过程溢出，请使用大且深的容器，放入饺子和水之后的水位低于容器高度的一半。", 
+                    "vc": "249657"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 7797354, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "木华柚柚", 
+                        "p": "http://tx1.douguo.net/upload/photo/a/6/5/70_u21068883899010232858.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "木华柚柚", 
+                    "au": "recipes://www.douguo.com/details?id=2351593", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分钟左右", 
+                    "cookstory": "过节胖三斤，吃点绿豆芽消消食吧。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2351593, 
+                    "img": "https://cp1.douguo.com/upload/caiku/a/1/1/600_a1f860f727f355830c948eb84b493901.jpeg", 
+                    "major": [
+                        {
+                            "note": "1斤", 
+                            "title": "绿豆芽"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "凉拌汁"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "辣椒碎"
+                        }, 
+                        {
+                            "note": "半勺", 
+                            "title": "盐"
+                        }, 
+                        {
+                            "note": "半勺", 
+                            "title": "白糖"
+                        }, 
+                        {
+                            "note": "半勺", 
+                            "title": "鸡粉"
+                        }, 
+                        {
+                            "note": "1勺", 
+                            "title": "葱花"
+                        }, 
+                        {
+                            "note": "1勺", 
+                            "title": "蒜蓉"
+                        }, 
+                        {
+                            "note": "5勺", 
+                            "title": "热油"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "香醋"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "香菜碎"
+                        }
+                    ], 
+                    "n": "凉拌绿豆芽", 
+                    "p": "https://cp1.douguo.com/upload/caiku/a/1/1/600_a1f860f727f355830c948eb84b493901.jpeg", 
+                    "ph": 1280, 
+                    "pw": 1920, 
+                    "rate": 5, 
+                    "recipe_list_tags": [ ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "10人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "凉菜"
+                        }, 
+                        {
+                            "t": "中国菜"
+                        }, 
+                        {
+                            "t": "家常菜"
+                        }, 
+                        {
+                            "t": "拌"
+                        }, 
+                        {
+                            "t": "香"
+                        }, 
+                        {
+                            "t": "午餐"
+                        }, 
+                        {
+                            "t": "晚餐"
+                        }, 
+                        {
+                            "t": "锅具"
+                        }, 
+                        {
+                            "t": "煮锅"
+                        }, 
+                        {
+                            "t": "素菜"
+                        }, 
+                        {
+                            "t": "一人食"
+                        }, 
+                        {
+                            "t": "锅具"
+                        }, 
+                        {
+                            "t": "下酒菜"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "3-4年级学做饭"
+                        }
+                    ], 
+                    "tips": "", 
+                    "vc": "1553608"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 7047725, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "小黠大痴", 
+                        "p": "http://tx1.douguo.net/upload/photo/d/4/6/70_u16481807866235211251.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "小黠大痴", 
+                    "au": "recipes://www.douguo.com/details?id=1455634", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "1小时以上", 
+                    "cookstory": "过年过节家里来了客人少不了要弄些拿手菜，拿手菜需从颜值到味道上都比较赞才行。吃完饭一家人聊聊天，开开心心的度过愉快的假期是件非常幸福的事情，这是每一个家庭都有的闲暇愉快的时光。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 1, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 1455634, 
+                    "img": "https://cp1.douguo.com/upload/caiku/b/2/8/600_b2d2ef73445633cc00b1399113fc0da8.png", 
+                    "major": [
+                        {
+                            "note": "1000克", 
+                            "title": "排骨"
+                        }, 
+                        {
+                            "note": "2块", 
+                            "title": "土豆"
+                        }, 
+                        {
+                            "note": "1块", 
+                            "title": "姜"
+                        }, 
+                        {
+                            "note": "4瓣", 
+                            "title": "大蒜"
+                        }, 
+                        {
+                            "note": "5块", 
+                            "title": "冰糖"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "料酒"
+                        }, 
+                        {
+                            "note": "4颗", 
+                            "title": "八角"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "红烧酱油"
+                        }
+                    ], 
+                    "n": "土豆烧排骨", 
+                    "p": "https://cp1.douguo.com/upload/caiku/b/2/8/600_b2d2ef73445633cc00b1399113fc0da8.png", 
+                    "ph": 533, 
+                    "pw": 800, 
+                    "rate": 4.9, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "155人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "伊可新"
+                        }
+                    ], 
+                    "tips": "开始加水最好一次加足，如果中间要添加水要加热水，这样排骨比较好熟。土豆不要和排骨一起放，会把土豆烧化掉。", 
+                    "vc": "6392692"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 26501209, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "蜜斯Ann的厨房日记", 
+                        "p": "http://tx1.douguo.net/upload/photo/2/e/1/70_2e2d9298edc52d5b1746ab3372a80031.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "蜜斯Ann的厨房日记", 
+                    "au": "recipes://www.douguo.com/details?id=3181680", 
+                    "cook_difficulty": "", 
+                    "cook_time": "", 
+                    "cookstory": "蒸蛋羹总能让我回到童年的美好回忆中。外婆常会为我做这道菜，每当吃它时，立刻又回到了她的怀抱，那时候的生活真正是无忧无虑。
+每当我早晨想吃些舒服的东西，或者心情不好的时候，蒸蛋羹便是一项好的选择。
+-
+蒸鸡蛋羹非常简单，只需要20分钟不到的时间。
+可以品尝到鸡蛋的新鲜味道，只需要一点酱油、芝麻油和葱花，就可以增加香味。
+另外分享出蒸出镜面般超光滑蛋羹的诀窍！
+它的质地非常顺滑、丝般柔细，吃起来入口即化，宛如布丁，简单又丰盛。
+-
+简单的做法，丝滑的质地，非常嫩，味道温和。 
+这道舒适的蒸蛋羹，希望你喜欢，:-D", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 3181680, 
+                    "img": "https://cp1.douguo.com/upload/caiku/4/0/4/600_40ba24e48a9d4670a5b465ca6c761ab4.JPG", 
+                    "major": [
+                        {
+                            "note": "1个", 
+                            "title": "大个鸡蛋"
+                        }, 
+                        {
+                            "note": "1/8小勺", 
+                            "title": "盐"
+                        }, 
+                        {
+                            "note": "90g（见tips）", 
+                            "title": "温水"
+                        }, 
+                        {
+                            "note": "葱花、酱油、芝麻油", 
+                            "title": "其他可选："
+                        }
+                    ], 
+                    "n": "『简单诀窍』光滑细嫩的蒸鸡蛋羹", 
+                    "p": "https://cp1.douguo.com/upload/caiku/4/0/4/600_40ba24e48a9d4670a5b465ca6c761ab4.JPG", 
+                    "ph": 2880, 
+                    "pw": 2160, 
+                    "rate": 5, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "5人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "伊可新"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "3-4年级学做饭"
+                        }
+                    ], 
+                    "tips": "01.蒸好的鸡蛋会像丝一样柔软，质地更像布丁而不是豆腐。 
+02.碗的宽深影响烹饪时间。碗越厚越高，烹饪时间就越长。", 
+                    "vc": "140898"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 19047407, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "罐头视频", 
+                        "p": "http://tx1.douguo.net/upload/photo/e/3/c/70_u7919702965112111151640.png", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "罐头视频", 
+                    "au": "recipes://www.douguo.com/details?id=1697502", 
+                    "cook_difficulty": "", 
+                    "cook_time": "0", 
+                    "cookstory": "#罐头小厨#【3款夏日蜂蜜水果冷泡茶 】操作简单零难度，助你轻松熬过三伏天，关键喝完还能美容哦~", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 1697502, 
+                    "img": "https://cp1.douguo.com/upload/caiku/9/9/5/600_99adae7315921d483a9abc4675631bd5.jpg", 
+                    "major": [
+                        {
+                            "note": "1包", 
+                            "title": "斐思黑标绿茶"
+                        }, 
+                        {
+                            "note": "1颗", 
+                            "title": "百香果"
+                        }, 
+                        {
+                            "note": "1颗", 
+                            "title": "青柠"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "佰思蜜MGO100+麦卢卡蜂蜜"
+                        }
+                    ], 
+                    "n": "夏日蜂蜜水果冷泡茶", 
+                    "p": "https://cp1.douguo.com/upload/caiku/9/9/5/600_99adae7315921d483a9abc4675631bd5.jpg", 
+                    "ph": 1080, 
+                    "pw": 1920, 
+                    "rate": 5, 
+                    "recipe_list_tags": [ ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "9.8万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [ ], 
+                    "tips": "", 
+                    "vc": "98061", 
+                    "vfurl": "https://vplay.douguo.com/lrctDRyHjbs8QagkIqJ7rRhKk_4w__640x356.mp4", 
+                    "vu": "https://vplay.douguo.com/lrctDRyHjbs8QagkIqJ7rRhKk_4w__640x356.mp4"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 20141474, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 7, 
+                        "n": "月色家的小厨房", 
+                        "p": "http://tx1.douguo.net/upload/photo/2/8/4/70_286c8630337257d0859de92cd96512f4.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "月色家的小厨房", 
+                    "au": "recipes://www.douguo.com/details?id=1554463", 
+                    "cook_difficulty": "", 
+                    "cook_time": "0", 
+                    "cookstory": "春天是人体舒发之际、选择自然发酵的普洱茶、这样的茶既有温性、又有活性、更利于把冬天积郁在人体内的寒邪给除掉、使人体阳气生发、使人振奋、消除疲劳、增强疾病的抵御能力……", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 1554463, 
+                    "img": "https://cp1.douguo.com/upload/caiku/9/a/d/600_9aae3655fa32084004f1157d59ac3c2d.jpeg", 
+                    "major": [
+                        {
+                            "note": "600克", 
+                            "title": "鹌鹑蛋"
+                        }, 
+                        {
+                            "note": "平常一次的泡茶量即可", 
+                            "title": "熟普洱茶"
+                        }, 
+                        {
+                            "note": "一个", 
+                            "title": "豆蔻"
+                        }, 
+                        {
+                            "note": "一块", 
+                            "title": "肉桂"
+                        }, 
+                        {
+                            "note": "5片", 
+                            "title": "香叶"
+                        }, 
+                        {
+                            "note": "5克", 
+                            "title": "鸡精"
+                        }, 
+                        {
+                            "note": "一个", 
+                            "title": "草果"
+                        }, 
+                        {
+                            "note": "一个", 
+                            "title": "肉蔻"
+                        }, 
+                        {
+                            "note": "一块", 
+                            "title": "桂皮"
+                        }, 
+                        {
+                            "note": "10克", 
+                            "title": "小茴香"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "盐"
+                        }
+                    ], 
+                    "n": "普洱茶卤鹌鹑蛋", 
+                    "p": "https://cp1.douguo.com/upload/caiku/9/a/d/600_9aae3655fa32084004f1157d59ac3c2d.jpeg", 
+                    "ph": 2001, 
+                    "pw": 1125, 
+                    "rate": 5, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "5人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [ ], 
+                    "tips": "卤好的鹌鹑蛋、放凉以后放入冰箱冷藏一夜、味道绝佳哟……", 
+                    "vc": "610342"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 4627059, 
+                        "is_prime": true, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "海风的韵味", 
+                        "p": "http://tx1.douguo.net/upload/photo/1/8/5/70_u03094747839948212603.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "海风的韵味", 
+                    "au": "recipes://www.douguo.com/details?id=3050920", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分钟左右", 
+                    "cookstory": "水果茶是近年奶茶店的新宠，经常逛街的时候买水果茶，但是很难买到健康无添加的水果茶，经常是甜腻的喝了一半就放弃了，怎么才能喝到健康美味的水果茶呢？今天就给大家准备了一款简单快手的水果茶做法，特别适合新手小白，只需配好水果，简单煮一煮，就能喝。经常喝水果茶，对女生大有好处，可以给身体排毒，提亮肤色，自制的水果茶可以根据自己的喜好的来搭配，喝起来舒心又方便，随时满足自己的口味，天冷了，给自己煮一壶热乎乎的水果茶吧，好喝又好看。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 3050920, 
+                    "img": "https://cp1.douguo.com/upload/caiku/b/a/5/600_ba4da9d10890dd0cc99ea1c03f425d05.jpeg", 
+                    "major": [
+                        {
+                            "note": "1个", 
+                            "title": "苹果"
+                        }, 
+                        {
+                            "note": "1个", 
+                            "title": "雪花梨"
+                        }, 
+                        {
+                            "note": "2", 
+                            "title": "柠檬"
+                        }, 
+                        {
+                            "note": "4个", 
+                            "title": "草莓"
+                        }, 
+                        {
+                            "note": "8个", 
+                            "title": "金桔"
+                        }, 
+                        {
+                            "note": "个", 
+                            "title": "橙子"
+                        }, 
+                        {
+                            "note": "5个", 
+                            "title": "山楂"
+                        }, 
+                        {
+                            "note": "9颗", 
+                            "title": "红枣"
+                        }, 
+                        {
+                            "note": "克", 
+                            "title": "冰糖"
+                        }, 
+                        {
+                            "note": "1包", 
+                            "title": "红茶"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "清水"
+                        }
+                    ], 
+                    "n": "自制冬日热饮水果茶，酸甜好喝又解渴，暖胃又健康", 
+                    "p": "https://cp1.douguo.com/upload/caiku/b/a/5/600_ba4da9d10890dd0cc99ea1c03f425d05.jpeg", 
+                    "ph": 1440, 
+                    "pw": 1920, 
+                    "rate": 5, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "23人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "伊可新"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "备孕"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "孕妇"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "孕妇"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "孕妇"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "孕妇"
+                        }, 
+                        {
+                            "t": "孕中期(13-27周)"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "孕妇"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "孕妇"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "孕妇"
+                        }, 
+                        {
+                            "t": "孕晚期(≥28周)"
+                        }, 
+                        {
+                            "t": "功效"
+                        }, 
+                        {
+                            "t": "功效"
+                        }, 
+                        {
+                            "t": "功效"
+                        }, 
+                        {
+                            "t": "功效"
+                        }, 
+                        {
+                            "t": "乳糖不耐"
+                        }, 
+                        {
+                            "t": "加餐"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "母婴人群"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "1-2年级学做饭"
+                        }
+                    ], 
+                    "tips": "1、水果茶里的食材，可以根据自家的水果搭配，不用刻意用买，我经常家里有什么就放什么，冰糖的用量，根据水果的甜度和个人的口味，随意调节。
+2、水果茶煮的时间不要太长，水开后再煮两三分钟即可，喝完一壶后，可以加水重新煮沸再次饮用。
+3、柠檬片可以防止水果的氧化，还能调和水果的味道，喝起来更加清爽，怕酸的话可以少放，或者不放可以。", 
+                    "vc": "6655890"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 19245977, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 7, 
+                        "n": "优雅的长围巾", 
+                        "p": "http://tx1.douguo.net/upload/photo/b/1/9/70_u81810127339673230706.jpg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "优雅的长围巾", 
+                    "au": "recipes://www.douguo.com/details?id=2963651", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10~30分钟", 
+                    "cookstory": " 香菇炒青菜是一道百吃不厌的家常菜 青菜买了2小捆 于是今天这道菜炒了两遍，午餐没有吃够 ，晚餐又做了一次，使用电磁炉替代明火炒制，火力稳定不用关窗户，使用方便，相对明火炒菜要凉快很多。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2963651, 
+                    "img": "https://cp1.douguo.com/upload/caiku/c/5/6/600_c5d38f0f93dc59f215b403943dfe8b26.jpg", 
+                    "major": [
+                        {
+                            "note": "10朵", 
+                            "title": "干香菇"
+                        }, 
+                        {
+                            "note": "1把", 
+                            "title": "青菜"
+                        }, 
+                        {
+                            "note": "1段", 
+                            "title": "葱"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "1勺", 
+                            "title": "蚝油"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "食用油"
+                        }
+                    ], 
+                    "n": "香菇炒青菜", 
+                    "p": "https://cp1.douguo.com/upload/caiku/c/5/6/600_c5d38f0f93dc59f215b403943dfe8b26.jpg", 
+                    "ph": 530, 
+                    "pw": 600, 
+                    "rate": 5, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "85.3万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "5-6年级学做饭"
+                        }
+                    ], 
+                    "tips": "青菜放入后 快速翻炒出锅 不宜过度炒制 以免影响口感。", 
+                    "vc": "853236"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 18114337, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 8, 
+                        "n": "阳光之美食", 
+                        "p": "http://tx1.douguo.net/upload/photo/4/e/e/70_u69450610137304194742.jpg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 0, 
+                        "verified_image": ""
+                    }, 
+                    "an": "阳光之美食", 
+                    "au": "recipes://www.douguo.com/details?id=3137316", 
+                    "cook_difficulty": "", 
+                    "cook_time": "", 
+                    "cookstory": "", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 1, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 3137316, 
+                    "img": "https://cp1.douguo.com/upload/caiku/5/1/4/600_51d2859f1ea74f2ce50a423176b6ea84.jpg", 
+                    "major": [
+                        {
+                            "note": "适量", 
+                            "title": "西红柿"
+                        }, 
+                        {
+                            "note": "2个", 
+                            "title": "鸡蛋"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "葱花"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "香油"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "盐"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "清水"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "菜籽油"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "淀粉"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "味达美味极鲜酱油"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "白醋"
+                        }
+                    ], 
+                    "n": "西红柿鸡蛋汤", 
+                    "p": "https://cp1.douguo.com/upload/caiku/5/1/4/600_51d2859f1ea74f2ce50a423176b6ea84.jpg", 
+                    "ph": 1707, 
+                    "pw": 1280, 
+                    "rate": 4.8, 
+                    "recipe_list_tags": [ ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "9人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "煮"
+                        }, 
+                        {
+                            "t": "汤"
+                        }, 
+                        {
+                            "t": "伊可新"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "5-6年级学做饭"
+                        }
+                    ], 
+                    "tips": "葱花不要放锅里煮，直接切好放汤碗里面。", 
+                    "vc": "334302"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 10763699, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "苏苏不酥", 
+                        "p": "http://tx1.douguo.net/upload/photo/b/e/b/70_u38875294963372115626.jpg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "苏苏不酥", 
+                    "au": "recipes://www.douguo.com/details?id=3187045", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分钟左右", 
+                    "cookstory": "草莓柠檬茉莉茶|一瓶只有100大卡 清甜解腻
+果香四溢 果粒满满
+维生素多多的水果茶
+超简单 0失败 5分钟轻松搞定
+手残党也能一次成功
+常温or加冰均可 
+无添加 无色素 有颜有料无负担
+白开水不好喝那就来喝它", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 1, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 3187045, 
+                    "img": "https://cp1.douguo.com/upload/caiku/5/d/5/600_5d9ea553b96aaf5fc3de0c6598ad4c95.jpg", 
+                    "major": [
+                        {
+                            "note": "1个", 
+                            "title": "茉莉绿茶包"
+                        }, 
+                        {
+                            "note": "750ml", 
+                            "title": "热水"
+                        }, 
+                        {
+                            "note": "1个", 
+                            "title": "青柠檬"
+                        }, 
+                        {
+                            "note": "1/2个", 
+                            "title": "黄柠檬"
+                        }, 
+                        {
+                            "note": "40克", 
+                            "title": "冰糖"
+                        }, 
+                        {
+                            "note": "4颗", 
+                            "title": "草莓"
+                        }, 
+                        {
+                            "note": "180克", 
+                            "title": "冰块"
+                        }
+                    ], 
+                    "n": "草莓柠檬茉莉茶", 
+                    "p": "https://cp1.douguo.com/upload/caiku/5/d/5/600_5d9ea553b96aaf5fc3de0c6598ad4c95.jpg", 
+                    "ph": 1600, 
+                    "pw": 900, 
+                    "rate": 0, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "15.7万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "伊可新"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "1-2年级学做饭"
+                        }
+                    ], 
+                    "tips": "以上配方为两人份的量 此配方口感偏清淡
+喜欢味道重一点的宝宝可以根据自己的口味添加茶包和冰糖
+延长茶包浸泡的时间 或者 选择煮茶也可以
+草莓和柠檬一定要清洗干净 ", 
+                    "vc": "157022", 
+                    "vfurl": "https://vplay.douguo.com/ltUlluhh1UhjcvsSd61b1-QUASoa__362x640.mp4", 
+                    "vu": "https://vplay.douguo.com/ltUlluhh1UhjcvsSd61b1-QUASoa__362x640.mp4"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 23739388, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "悦己小食光", 
+                        "p": "http://tx1.douguo.net/upload/photo/2/6/6/70_262ce2ced47119b78c152c1be339e386.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "悦己小食光", 
+                    "au": "recipes://www.douguo.com/details?id=2442662", 
+                    "cook_difficulty": "", 
+                    "cook_time": "10~30分钟", 
+                    "cookstory": "超级酸爽下饭的醋溜白菜，白菜这么做超级入味～", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2442662, 
+                    "img": "https://cp1.douguo.com/upload/caiku/a/1/e/600_a1f349b7a4ea60b58537d2b3a9b6a1de.jpeg", 
+                    "major": [
+                        {
+                            "note": "半颗", 
+                            "title": "大白菜"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "大蒜"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "干辣椒"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "陈醋"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "盐 糖"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "淀粉"
+                        }, 
+                        {
+                            "note": "", 
+                            "title": "鸡精"
+                        }
+                    ], 
+                    "n": "醋溜白菜", 
+                    "p": "https://cp1.douguo.com/upload/caiku/a/1/e/600_a1f349b7a4ea60b58537d2b3a9b6a1de.jpeg", 
+                    "ph": 1294, 
+                    "pw": 1920, 
+                    "rate": 4.9, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "25人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "5-6年级学做饭"
+                        }
+                    ], 
+                    "tips": "1⃣️先炒白菜帮再炒白菜叶，不至于白菜叶过于软烂～
+2⃣️大火翻炒更好吃～", 
+                    "vc": "3650288"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 7211253, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "iamyiiamyi", 
+                        "p": "http://tx1.douguo.net/upload/photo/3/4/a/70_u17016068563350183305.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "iamyiiamyi", 
+                    "au": "recipes://www.douguo.com/details?id=2334904", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分钟左右", 
+                    "cookstory": "红油抄手是四川和重庆的地方特色小吃，属于川菜系。此种小吃柔嫩鲜美，汤汁微辣浓香。红油抄手是四川和重庆著名的特色小吃。此种小吃柔嫩鲜美，汤汁微辣浓香。抄手是四川人和重庆人对馄饨的称呼，馄饨在全国各地均有制作，红油抄手是最为著名的品种之一。
+红油抄手在广州称云吞，在江西称清汤，而在中国其它地方主要称馄饨。馄饨早在两千多年前就已在中国出现，在很多民族及地区都十分盛行，所以名称、吃法也不尽相同，除煮食外，煎、炸均有，风味各异。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2334904, 
+                    "img": "https://cp1.douguo.com/upload/caiku/7/4/8/600_7431c11bbb1a6d3b9ebf8938316e4208.jpeg", 
+                    "major": [
+                        {
+                            "note": "12个", 
+                            "title": "云吞"
+                        }, 
+                        {
+                            "note": "3瓣", 
+                            "title": "蒜头"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "葱"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "油、醋、生抽、白芝麻、辣椒粉、水、辣椒油"
+                        }
+                    ], 
+                    "n": "红油抄手", 
+                    "p": "https://cp1.douguo.com/upload/caiku/7/4/8/600_7431c11bbb1a6d3b9ebf8938316e4208.jpeg", 
+                    "ph": 1440, 
+                    "pw": 1920, 
+                    "rate": 5, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "56.4万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "煮"
+                        }, 
+                        {
+                            "t": "锅具"
+                        }, 
+                        {
+                            "t": "锅具"
+                        }, 
+                        {
+                            "t": "锅具"
+                        }, 
+                        {
+                            "t": "煮锅"
+                        }, 
+                        {
+                            "t": "锅具"
+                        }, 
+                        {
+                            "t": "辣"
+                        }, 
+                        {
+                            "t": "香"
+                        }, 
+                        {
+                            "t": "中国菜"
+                        }, 
+                        {
+                            "t": "主食"
+                        }, 
+                        {
+                            "t": "主食"
+                        }, 
+                        {
+                            "t": "主食"
+                        }, 
+                        {
+                            "t": "主食"
+                        }, 
+                        {
+                            "t": "馄饨"
+                        }, 
+                        {
+                            "t": "午餐"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "3-4年级学做饭"
+                        }
+                    ], 
+                    "tips": "1、佐料可以放入少许花椒，味道更香；
+2、可以加入适量香菜； 
+3、我用的是ACA北美电器AH-MP1200料理锅，如用家里普通锅请自行调节火候。", 
+                    "vc": "564484"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 3989094, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 7, 
+                        "n": "木木木木de健康生活", 
+                        "p": "http://tx1.douguo.net/upload/photo/7/5/d/70_u91412847591064075648.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "木木木木de健康生活", 
+                    "au": "recipes://www.douguo.com/details?id=2320225", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分钟左右", 
+                    "cookstory": "", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2320225, 
+                    "img": "https://cp1.douguo.com/upload/caiku/3/d/9/600_3d2d922857e9125c870fdc3ea8a9f699.jpeg", 
+                    "major": [
+                        {
+                            "note": "一个", 
+                            "title": "芒果"
+                        }, 
+                        {
+                            "note": "一盒", 
+                            "title": "酸奶"
+                        }
+                    ], 
+                    "n": "芒果酸奶杯", 
+                    "p": "https://cp1.douguo.com/upload/caiku/3/d/9/600_3d2d922857e9125c870fdc3ea8a9f699.jpeg", 
+                    "ph": 1440, 
+                    "pw": 1920, 
+                    "rate": 0, 
+                    "recipe_list_tags": [ ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "21.9万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "1-2年级学做饭"
+                        }
+                    ], 
+                    "tips": "", 
+                    "vc": "218592"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 5252290, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "火镀红叶", 
+                        "p": "http://tx1.douguo.net/upload/photo/a/f/a/70_u08147770469375194545.jpg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 0, 
+                        "verified_image": ""
+                    }, 
+                    "an": "火镀红叶", 
+                    "au": "recipes://www.douguo.com/details?id=3122666", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10-30分钟", 
+                    "cookstory": "醋大多是由粮食或者是水果发酵而成的水状调味品，含多种氨基酸，矿物质等微量元素等，醋在调味品中点有重要的位置，做菜加点醋特别好吃，风味很独特，如普通的煎鸡蛋放点醋，马上会变得不一样，今天分享这道糖醋煎鸡蛋，的确超好吃，蛋是刚刚熟，口感绵而滑，而酱汁就是用米醋、蚝油、生抽加点水调出来，煎好蛋后再用酱汁煮一煮，好吃又下饭………秋季后吃点酸，生津开胃呀！", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 3122666, 
+                    "img": "https://cp1.douguo.com/upload/caiku/8/0/5/600_806f16238e0b3c788a5ba73704366aa5.jpg", 
+                    "major": [
+                        {
+                            "note": "5个", 
+                            "title": "土鸡蛋"
+                        }, 
+                        {
+                            "note": "5克", 
+                            "title": "小葱"
+                        }, 
+                        {
+                            "note": "6克", 
+                            "title": "姜"
+                        }, 
+                        {
+                            "note": "3大勺", 
+                            "title": "香油"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "米醋"
+                        }, 
+                        {
+                            "note": "1勺", 
+                            "title": "蚝油"
+                        }, 
+                        {
+                            "note": "2勺", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "半碗", 
+                            "title": "清水"
+                        }
+                    ], 
+                    "n": "糖醋煎鸡蛋", 
+                    "p": "https://cp1.douguo.com/upload/caiku/8/0/5/600_806f16238e0b3c788a5ba73704366aa5.jpg", 
+                    "ph": 533, 
+                    "pw": 800, 
+                    "rate": 5, 
+                    "recipe_list_tags": [ ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "4人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "5-6年级学做饭"
+                        }, 
+                        {
+                            "t": "伊可新"
+                        }
+                    ], 
+                    "tips": "", 
+                    "vc": "139647"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 25569570, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "然MM", 
+                        "p": "http://tx1.douguo.net/upload/photo/e/d/6/70_u91187079487404144303.jpg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "然MM", 
+                    "au": "recipes://www.douguo.com/details?id=3188820", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分钟左右", 
+                    "cookstory": "四季豆是很多人最爱吃的蔬菜，而四季豆也是推荐大家在立夏时常吃的蔬菜，因为四季豆不仅可以补钙，而且还具有“清热除湿”的作用，在立夏时节，宁可少吃肉，也要适当吃一些四季豆。而四季豆虽然好吃，但是一定要烹饪熟，否则会导致食物中毒。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 1, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 3188820, 
+                    "img": "https://cp1.douguo.com/upload/caiku/2/9/6/600_2926e4930c2c1522a8415267caadfd26.jpg", 
+                    "major": [
+                        {
+                            "note": "140克", 
+                            "title": "四季豆"
+                        }, 
+                        {
+                            "note": "130克", 
+                            "title": "猪腿肉"
+                        }, 
+                        {
+                            "note": "2瓣", 
+                            "title": "蒜"
+                        }, 
+                        {
+                            "note": "1小块", 
+                            "title": "姜"
+                        }, 
+                        {
+                            "note": "1小勺", 
+                            "title": "料酒"
+                        }, 
+                        {
+                            "note": "1勺", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "1勺", 
+                            "title": "蚝油"
+                        }, 
+                        {
+                            "note": "1克", 
+                            "title": "白糖"
+                        }, 
+                        {
+                            "note": "1克", 
+                            "title": "盐"
+                        }
+                    ], 
+                    "n": "四季豆炒肉", 
+                    "p": "https://cp1.douguo.com/upload/caiku/2/9/6/600_2926e4930c2c1522a8415267caadfd26.jpg", 
+                    "ph": 960, 
+                    "pw": 1280, 
+                    "rate": 0, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "13.7万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "7-9年级学做饭"
+                        }
+                    ], 
+                    "tips": "四季豆里含有皂素，皂素吃了对身体是有害的，去除皂素的方法就是煮熟，但是如果把四季豆放进锅里直接炒的话，很容易就会半生不熟。因此，焯水是最直接最有效的做法。", 
+                    "vc": "137248"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 4991825, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 5, 
+                        "n": "青青menu", 
+                        "p": "http://tx1.douguo.net/upload/photo/3/0/4/70_u06706717112043193251.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 0, 
+                        "verified_image": ""
+                    }, 
+                    "an": "青青menu", 
+                    "au": "recipes://www.douguo.com/details?id=2064953", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分钟左右", 
+                    "cookstory": "写一种比较简单家常的做法。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2064953, 
+                    "img": "https://cp1.douguo.com/upload/caiku/0/0/3/600_0012a7a5ab99e1ffc15346d8e5269aa3.jpeg", 
+                    "major": [
+                        {
+                            "note": "14g", 
+                            "title": "红茶：锡兰红茶粉（或立顿红茶包）"
+                        }, 
+                        {
+                            "note": "1400ml", 
+                            "title": "水"
+                        }, 
+                        {
+                            "note": "160g", 
+                            "title": "糖浆：白糖"
+                        }, 
+                        {
+                            "note": "100ml", 
+                            "title": "水"
+                        }, 
+                        {
+                            "note": "2颗", 
+                            "title": "其他：柠檬"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "冰块"
+                        }
+                    ], 
+                    "n": "柠檬红茶（冻柠茶）", 
+                    "p": "https://cp1.douguo.com/upload/caiku/0/0/3/600_0012a7a5ab99e1ffc15346d8e5269aa3.jpeg", 
+                    "ph": 1440, 
+                    "pw": 1920, 
+                    "rate": 0, 
+                    "recipe_list_tags": [ ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "56.9万人看过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "1-2年级学做饭"
+                        }
+                    ], 
+                    "tips": "1.红茶一般选用捷荣红茶粉，也可直接用立顿红茶或车仔红茶。
+
+2.煮茶能使茶的的味道更醇厚。
+
+3.煮好的茶最好在冰箱冷藏一晚，直接使用也可以。
+
+4.糖也可直接放入红茶中，用量根据个人喜好增减即可。
+
+5.如果喝不完要将柠檬片取出，防止柠檬皮泡出苦味。", 
+                    "vc": "568794"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 7914640, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "圆圆Echo", 
+                        "p": "http://tx1.douguo.net/upload/photo/d/a/1/70_u21898355826775100720.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 0, 
+                        "verified_image": ""
+                    }, 
+                    "an": "圆圆Echo", 
+                    "au": "recipes://www.douguo.com/details?id=1443867", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10~30分钟", 
+                    "cookstory": "", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 1, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 1443867, 
+                    "img": "https://cp1.douguo.com/upload/caiku/5/9/1/600_5999533f7648a0ab0fd2a0fe94b247e1.jpeg", 
+                    "major": [
+                        {
+                            "note": "1条", 
+                            "title": "丝瓜"
+                        }, 
+                        {
+                            "note": "2只", 
+                            "title": "鸡蛋"
+                        }, 
+                        {
+                            "note": "2瓣", 
+                            "title": "大蒜"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "盐巴"
+                        }
+                    ], 
+                    "n": "丝瓜炒鸡蛋", 
+                    "p": "https://cp1.douguo.com/upload/caiku/5/9/1/600_5999533f7648a0ab0fd2a0fe94b247e1.jpeg", 
+                    "ph": 535, 
+                    "pw": 800, 
+                    "rate": 4.8, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#F5D39F", 
+                            "background_start_color": "#FAE9CD", 
+                            "index": 1844, 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "荣誉殿堂", 
+                            "text_color": "#413C32"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "223人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "下饭菜"
+                        }, 
+                        {
+                            "t": "咸"
+                        }, 
+                        {
+                            "t": "炒"
+                        }, 
+                        {
+                            "t": "快手菜"
+                        }, 
+                        {
+                            "t": "懒人菜"
+                        }, 
+                        {
+                            "t": "晚餐"
+                        }, 
+                        {
+                            "t": "二人世界"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "5-6年级学做饭"
+                        }, 
+                        {
+                            "t": "中小学生学做饭"
+                        }
+                    ], 
+                    "tips": "", 
+                    "vc": "14361485"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 22948190, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 7, 
+                        "n": "蜜桃厨房", 
+                        "p": "http://tx1.douguo.net/upload/photo/c/2/e/70_c2fe4992d2ba91046837a236e33003ae.jpg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "蜜桃厨房", 
+                    "au": "recipes://www.douguo.com/details?id=2977870", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10-30分钟", 
+                    "cookstory": "饭团对很多人来说应该都比较熟，特别是日式饭团，一般把包馅的饭捏成三角形、再贴上紫菜就能吃了。
+ 
+这种饭团突出的是米饭的香软和馅料的丰富，多数会用新鲜出炉的材料来制作。
+ 
+而对于剩饭而言，用煎的方式更适合一点。只需要把材料搅匀，整形后再慢慢煎出一层锅巴，吃起来也是别有一番风味~
+
+
+
+不过呢，捏饭团看起来简单，里面还是有一点小技巧的。
+ 
+新鲜的米饭自不必说，又软又粘非常好捏。而对于剩饭，就要加点水再叮热一下。
+ 
+最后煎个两面焦香，再涂上秘制的酱汁即可。有时候出门想带便当，它就是个不错的选择哦~", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2977870, 
+                    "img": "https://cp1.douguo.com/upload/caiku/1/f/3/600_1fdef9e50027c61717209063b3004093.jpg", 
+                    "major": [
+                        {
+                            "note": "2碗", 
+                            "title": "剩饭"
+                        }, 
+                        {
+                            "note": "1根", 
+                            "title": "火腿肠"
+                        }, 
+                        {
+                            "note": "2根", 
+                            "title": "青葱"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "胡椒粉"
+                        }, 
+                        {
+                            "note": "1小勺", 
+                            "title": "白芝麻"
+                        }, 
+                        {
+                            "note": "2大勺", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "1大勺", 
+                            "title": "蚝油"
+                        }, 
+                        {
+                            "note": "1大勺", 
+                            "title": "蜂蜜"
+                        }, 
+                        {
+                            "note": "1大勺", 
+                            "title": "清水"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "海苔片"
+                        }, 
+                        {
+                            "note": "少许", 
+                            "title": "油"
+                        }
+                    ], 
+                    "n": "日式煎香饭团", 
+                    "p": "https://cp1.douguo.com/upload/caiku/1/f/3/600_1fdef9e50027c61717209063b3004093.jpg", 
+                    "ph": 4560, 
+                    "pw": 6836, 
+                    "rate": 5, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "6人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "5-6年级学做饭"
+                        }
+                    ], 
+                    "tips": "1.饭可以煮烂一些，如果是隔夜饭可以稍微放点水加热一下再做", 
+                    "vc": "8532417", 
+                    "vfurl": "https://vplay.douguo.com/lgX5Y9pvg0YV39sLT-NxmMYFou9q__640x356.mp4", 
+                    "vu": "https://vplay.douguo.com/lgX5Y9pvg0YV39sLT-NxmMYFou9q__640x356.mp4"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 3069406, 
+                        "is_prime": false, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "小厨麦田", 
+                        "p": "http://tx1.douguo.net/upload/photo/1/b/4/70_u75689183709213122443.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "小厨麦田", 
+                    "au": "recipes://www.douguo.com/details?id=1111619", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10分左右", 
+                    "cookstory": "“小葱拌豆腐，一清二白”，这也算是中华民族的一道传统菜了吧，它做法超级简单，口感鲜嫩爽口！ 这道菜可以说是还原食材原本味道的典范，无需冗杂的调料和繁琐的工艺，厨艺小白也能轻松驾驭~！ 做好这道拌豆腐最好要选品质好一些的酱油，调料在一定程度上决定菜品的口味哦。 ps:内脂豆腐可以直接吃的，不存在生熟的问题，在这里统一回答一下，如果不喜欢太冰可以上锅蒸几分钟。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 1111619, 
+                    "img": "https://cp1.douguo.com/upload/caiku/1/3/b/600_136fab0ecb2ffabec274b6f5aee67feb.jpg", 
+                    "major": [
+                        {
+                            "note": "一盒", 
+                            "title": "内脂豆腐"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "小葱"
+                        }, 
+                        {
+                            "note": "一勺", 
+                            "title": "生抽"
+                        }, 
+                        {
+                            "note": "一勺", 
+                            "title": "菁选酱油"
+                        }, 
+                        {
+                            "note": "半勺", 
+                            "title": "白糖"
+                        }
+                    ], 
+                    "n": "小葱拌豆腐", 
+                    "p": "https://cp1.douguo.com/upload/caiku/1/3/b/600_136fab0ecb2ffabec274b6f5aee67feb.jpg", 
+                    "ph": 529, 
+                    "pw": 800, 
+                    "rate": 4.6, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#F5D39F", 
+                            "background_start_color": "#FAE9CD", 
+                            "jump_url": "", 
+                            "left_image": "https://i1.douguo.com/upload/caiku/1/a/c/1a38dbd49cec6c5d4c253cee0083afbc.png", 
+                            "right_image": "", 
+                            "text": "减脂菜谱", 
+                            "text_color": "#413C32"
+                        }, 
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#F5D39F", 
+                            "background_start_color": "#FAE9CD", 
+                            "index": 1414, 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "荣誉殿堂", 
+                            "text_color": "#413C32"
+                        }, 
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "218人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [ ], 
+                    "tips": "1.第一步的操作有助于豆腐完整脱模，如有更好的方法可以分享哦。  2.将豆腐规则的划开，有助于调料入味， 如果一整块的话也行，吃的时候放到汤汁里面蘸一下。   3.做好这道拌豆腐最好要选品质好一些的酱油，调料在一定程度上决定菜品的口味哦。  4.看到有些人在纠结小葱和豆腐是否能同吃的问题，其实两者一起吃是没有任何风险的，只是不太有利于营养吸收而已，我个人觉得喜欢它的风味偶尔吃吃真无所谓，如果您把营养吸收的目的摆在第一位那就别论了。", 
+                    "vc": "6617867"
+                }, 
+                "type": 13
+            }, 
+            {
+                "ju": "", 
+                "r": {
+                    "a": {
+                        "followers_count_text": "", 
+                        "id": 19442311, 
+                        "is_prime": true, 
+                        "lv": 0, 
+                        "lvl": 6, 
+                        "n": "懿依坊", 
+                        "p": "http://tx1.douguo.net/upload/photo/b/2/9/70_u84386172375187173031.jpeg", 
+                        "progress_image": "", 
+                        "recipes_count_text": "", 
+                        "relationship": -1, 
+                        "title": "", 
+                        "v": 1, 
+                        "verified_image": ""
+                    }, 
+                    "an": "懿依坊", 
+                    "au": "recipes://www.douguo.com/details?id=2333057", 
+                    "cook_difficulty": "切墩(初级)", 
+                    "cook_time": "10~30分钟", 
+                    "cookstory": "巴沙鱼含丰富蛋白质、维生素A、矿物质（主要是钙）等营养元素。巴沙鱼有补气、平咳作用，对体弱咳喘有一定疗效。巴沙鱼还具有提神和防衰老等食疗功能，常食对治疗贫血、早衰、营养不良、产后虚弱和神经衰弱等症会有一定辅助疗效。", 
+                    "dc": 0, 
+                    "display_ingredient": 1, 
+                    "ecs": 0, 
+                    "fc": 0, 
+                    "hq": 0, 
+                    "id": 2333057, 
+                    "img": "https://cp1.douguo.com/upload/caiku/f/9/4/600_f9959670f2d067fbe1ceedddb4d74364.jpeg", 
+                    "major": [
+                        {
+                            "note": "300g", 
+                            "title": "巴沙鱼柳"
+                        }, 
+                        {
+                            "note": "30g", 
+                            "title": "蛋白："
+                        }, 
+                        {
+                            "note": "40g", 
+                            "title": "淀粉"
+                        }, 
+                        {
+                            "note": "10g", 
+                            "title": "生抽："
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "黑胡椒粉"
+                        }, 
+                        {
+                            "note": "一棵", 
+                            "title": "葱"
+                        }, 
+                        {
+                            "note": "3片", 
+                            "title": "姜"
+                        }, 
+                        {
+                            "note": "适量", 
+                            "title": "花生油"
+                        }
+                    ], 
+                    "n": "减脂餐之；黑胡椒香煎巴沙鱼柳", 
+                    "p": "https://cp1.douguo.com/upload/caiku/f/9/4/600_f9959670f2d067fbe1ceedddb4d74364.jpeg", 
+                    "ph": 1440, 
+                    "pw": 1920, 
+                    "rate": 5, 
+                    "recipe_list_tags": [
+                        {
+                            "background_border_color": "", 
+                            "background_end_color": "#FAFAFA", 
+                            "background_start_color": "#FAFAFA", 
+                            "jump_url": "", 
+                            "right_image": "", 
+                            "text": "内容详细", 
+                            "text_color": "#666666"
+                        }
+                    ], 
+                    "recommend_label": "", 
+                    "recommendation_tag": "12人做过", 
+                    "stc": 0, 
+                    "sti": 0, 
+                    "tags": [
+                        {
+                            "t": "中小学生学做饭"
+                        }, 
+                        {
+                            "t": "5-6年级学做饭"
+                        }
+                    ], 
+                    "tips": "全程一定要小火慢煎哦！别糊锅了哈！", 
+                    "vc": "4900381"
+                }, 
+                "type": 13
+            }
+        ], 
+        "mdsp": {
+            "dsp": {
+                "accessibility_text": "", 
+                "canclose": 0, 
+                "cap": "广告", 
+                "ch": 23, 
+                "ch_real": 23, 
+                "channel": "", 
+                "click_trackers": [ ], 
+                "client_ip": "101.83.186.136", 
+                "d": "", 
+                "deeplink_url": "", 
+                "i": "", 
+                "id": "ad6969", 
+                "img_h": 94, 
+                "img_w": 650, 
+                "imp_trackers": [ ], 
+                "like_count": 150, 
+                "logo": "http://i1.douguo.net/upload//recipe/0/3/e/03719caa8288357758ac689a27d5332e.jpg", 
+                "max_impression": 0, 
+                "max_impression_count": 0, 
+                "media_type": 0, 
+                "name": "种草小达人", 
+                "pid": "901054804", 
+                "position": "1searchtop", 
+                "post_body": {
+                    "codeid": "901054804", 
+                    "height": 94, 
+                    "native_type": 1, 
+                    "width": 650
+                }, 
+                "prompt_text": "前往应用", 
+                "query": "", 
+                "req_min_i": 60, 
+                "request_count": 1, 
+                "request_timeout": 3, 
+                "track_id": 1, 
+                "url": "", 
+                "user": {
+                    "lvl": 7, 
+                    "nick": "种草小达人", 
+                    "user_id": 0, 
+                    "user_photo": "http://i1.douguo.net/upload//recipe/0/3/e/03719caa8288357758ac689a27d5332e.jpg"
+                }, 
+                "ximage": ""
+            }, 
+            "type": 127
+        }, 
+        "primary_keyword": "中小学生学做饭", 
+        "secondary_keywords": [
+            "1-2年级", 
+            "3-4年级", 
+            "5-6年级", 
+            "7-9年级", 
+            "全部"
+        ], 
+        "sts": [
+            "中小学生学做饭"
+        ]
+    }, 
+    "state": "success"
+}
